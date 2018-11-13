@@ -10,7 +10,8 @@
 - GQRX
 - GNU Radio
 - kukuruku
-> Written with [StackEdit](https://stackedit.io/).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzg1NjZdfQ==
+eyJoaXN0b3J5IjpbLTUzODA5MDA0MiwyMTAzODU2Nl19
 -->
