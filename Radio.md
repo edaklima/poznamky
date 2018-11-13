@@ -17,7 +17,11 @@ Tetrapol
 DMR
 FM
 
+'''
+awdaw
+
 *demodulizace* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzIyMzA3NiwyMTAzODU2Nl19
+eyJoaXN0b3J5IjpbLTk2NDgzNjU2NSwtNDczMjIzMDc2LDIxMD
+M4NTY2XX0=
 -->
