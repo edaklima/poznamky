@@ -4,14 +4,15 @@
 - bladeRF
 - hackrf
 - USRP
-lk
+
 #### Software
 - rtl_*
 - GQRX
 - GNU Radio
 - kukuruku
 
+Tet
 *demodulizace* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NzQzMTg5LDIxMDM4NTY2XX0=
+eyJoaXN0b3J5IjpbMTA4MDI2NzUzLDIxMDM4NTY2XX0=
 -->
