@@ -11,8 +11,8 @@
 - GNU Radio
 - kukuruku
 
-Tet
+
 *demodulizace* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDI2NzUzLDIxMDM4NTY2XX0=
+eyJoaXN0b3J5IjpbMTUwNTkzOTI3MCwyMTAzODU2Nl19
 -->
