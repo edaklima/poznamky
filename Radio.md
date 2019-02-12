@@ -1,9 +1,7 @@
-Sítě
-=
-modem - přístroj, rozšifrová
+
 router - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Mjc5Mzc1OCwxNzk2NTIxNDk3LC0zND
-Y4MjMzNjYsMTkxNzQzNTg4NiwtNDczMjIzMDc2LDIxMDM4NTY2
-XX0=
+eyJoaXN0b3J5IjpbLTE5OTU5MDU3NiwxNjgyNzkzNzU4LDE3OT
+Y1MjE0OTcsLTM0NjgyMzM2NiwxOTE3NDM1ODg2LC00NzMyMjMw
+NzYsMjEwMzg1NjZdfQ==
 -->
