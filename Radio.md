@@ -1,32 +1,8 @@
-## SDR
-= softwarově definované rádio
-### Hardware
-- bladeRF
-- hackrf
-- USRP
-
-### Software
-- rtl_*
-- GQRX
-- GNU Radio
-- kukuruku
-
-**Typy frekvencí**
-Tetra
-Tetrapol
-DMR
-FM
-
-**AM**
-= amplitudová modulace
-- změna amplitudy původního signálu
-
-**FM**
-= frekvenční modulace
-- změna frekvence původního signálu
-
-*demodulizace* 
+Sítě
+=
+modem - 
+router - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjgyMzM2NiwxOTE3NDM1ODg2LC00Nz
-MyMjMwNzYsMjEwMzg1NjZdfQ==
+eyJoaXN0b3J5IjpbMTc5NjUyMTQ5NywtMzQ2ODIzMzY2LDE5MT
+c0MzU4ODYsLTQ3MzIyMzA3NiwyMTAzODU2Nl19
 -->
