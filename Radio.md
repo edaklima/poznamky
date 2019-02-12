@@ -1,8 +1,9 @@
 Sítě
 =
-modem - 
+modem - nástroj, rozšiřují
 router - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjUyMTQ5NywtMzQ2ODIzMzY2LDE5MT
-c0MzU4ODYsLTQ3MzIyMzA3NiwyMTAzODU2Nl19
+eyJoaXN0b3J5IjpbMTgwMTk3NTk1MiwxNzk2NTIxNDk3LC0zND
+Y4MjMzNjYsMTkxNzQzNTg4NiwtNDczMjIzMDc2LDIxMDM4NTY2
+XX0=
 -->
